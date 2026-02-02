@@ -1,4 +1,5 @@
 # 🤖 Arduino Obstacle Avoidance Robot (Servo-Based Scan)
+🔗 Tinkercad Simulation: https://www.tinkercad.com/things/e4hdiIVcDFS-incredible-jaiks/editel
 
 An autonomous obstacle-avoidance robot built with Arduino, DC motors, an ultrasonic sensor, and a servo-mounted scanner.
 
