@@ -1,9 +1,3 @@
-Nice — this is **repo-ready**. Below is a **clean, professional `README.md`** you can drop straight into GitHub.
-It explains **what the project does**, **how the logic works**, and **exact setup steps** (hardware + software).
-No fluff, no beginner cringe.
-
----
-
 # 🤖 Arduino Obstacle Avoidance Robot (Servo-Based Scan)
 
 An autonomous obstacle-avoidance robot built with Arduino, DC motors, an ultrasonic sensor, and a servo-mounted scanner.
